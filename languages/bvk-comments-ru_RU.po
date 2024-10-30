@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bologer VK Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-23 21:45+0000\n"
+"PO-Revision-Date: 2018-01-23 21:50+0000\n"
+"Last-Translator: Александр Тешабаев <sasha.tesh@gmail.com>\n"
+"Language-Team: Russian\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: bologer-vk-comments.php:95
+msgid "Base"
+msgstr "Основное"
+
+#: bologer-vk-comments.php:102
+msgid "Functions"
+msgstr "Функции"
+
+#: bologer-vk-comments.php:109
+msgid "Design"
+msgstr "Дизайн"
+
+#: bologer-vk-comments.php:119
+msgid "Active"
+msgstr "Активен"
+
+#: bologer-vk-comments.php:126
+msgid "Widget is active."
+msgstr "Виджет активен."
+
+#: bologer-vk-comments.php:151
+msgid "Support"
+msgstr "Спасибо"
+
+#: bologer-vk-comments.php:158
+msgid ""
+"Check this checkbox if you like \"VK Man Comments\" and as part of "
+"appreciation display our link with text \"Add VK Man Comments To My Site\" "
+"under comments widget."
+msgstr ""
+"Поставьте галочку на этом поле, если вам нравится \"VK Man Коментарии\" и вы "
+"хотите поблагодарить нас поставив ссылку с текстом \"Добавить VK Man "
+"комментарии\" под виджетом."
+
+#: bologer-vk-comments.php:174
+msgid "Automatically publish the comment to the user's VK page"
+msgstr "Автоматически постить комментарий на стене пользователя."
+
+#: bologer-vk-comments.php:190
+msgid "Enable realtime update for comments"
+msgstr "Включить обновление комментариев в режиме реального времени."
+
+#: bologer-vk-comments.php:1134
+msgid "Add VK Man Comments To My Site"
+msgstr "Добавить VK Man комментарии на мой сайт"
+
+#. Name of the plugin
+msgid "VK Man Comments"
+msgstr "VK Man комментарии"
+
+#. Description of the plugin
+msgid "VK Man Comments - comments from VK.com for WordPress"
+msgstr "VK Man комментарии - комментарии с VK.com для WordPress"
+
+#: comments.php:27 comments.php:30
+msgid "Leave A Reply"
+msgstr "Оставить комментарий"
+
+#: bologer-vk-comments.php:135
+msgid "App ID"
+msgstr "ID сайта"
+
+#: bologer-vk-comments.php:142
+msgid ""
+"Enter app id. It should be taken from VK. Use button above to help you with "
+"this."
+msgstr ""
+"Введите ID сайта. Оно должно быть взято со страницы разработчиков. "
+"Используйте кнопку выше, чтобы помочь вам с этим."
+
+#: bologer-vk-comments.php:167
+msgid "Auto Publish"
+msgstr "Автопубликация"
+
+#: bologer-vk-comments.php:183
+msgid "No Real Time"
+msgstr "В реальном времени"
+
+#: bologer-vk-comments.php:199
+msgid "Override"
+msgstr "Перезаписать"
+
+#: bologer-vk-comments.php:206
+msgid "Override native comments"
+msgstr "Убрать стандартные комментарии от WordPress и поставить ВК"
+
+#: bologer-vk-comments.php:212
+msgid "Position"
+msgstr "Позиция"
+
+#: bologer-vk-comments.php:225 bologer-vk-comments.php:288
+msgid "Limit"
+msgstr "Лимит"
+
+#: bologer-vk-comments.php:232
+msgid "Minimum: 5, default is: 10. Or set custom value."
+msgstr "Минимально: 5, по умолчанию: 10. Или поставьте собственное значение."
+
+#: bologer-vk-comments.php:241
+msgid "Type"
+msgstr "Формат"
+
+#: bologer-vk-comments.php:256
+msgid "Width"
+msgstr "Ширина"
+
+#: bologer-vk-comments.php:263
+msgid ""
+"width in pixels. Minimal value is 300. If the parameter is not set, widget "
+"will take all available width."
+msgstr ""
+"ширина в пикселях. Минимальное значение - 300. Если значение не указано - "
+"виджет возьмет всё доступное пространство."
+
+#: bologer-vk-comments.php:272
+msgid "Height"
+msgstr "Высота"
+
+#: bologer-vk-comments.php:279
+msgid ""
+"maximum height of the widget in pixels. Minimal value is 500. If 0, heigth "
+"is not limited. If widget content is larger than the maximum allowed, "
+"internal scrolling appears. By default — 0."
+msgstr ""
+"максимальная высота в пикселях. Минимальное значение - 500. Если установлено "
+"\"0\" - высота не ограничена. Если высота виджета больше чем установленное "
+"значение, то появляется внутренний ползунок (скролл). Высота по умолчанию не "
+"ограничивается."
+
+#: bologer-vk-comments.php:295
+msgid "number of comments on the page. Minimum - 5, maximum - 100."
+msgstr "количество комментариев на страницу. Минимум - 5, максимум - 100."
+
+#: bologer-vk-comments.php:302
+msgid "Header Element"
+msgstr "Элемент заголовка"
+
+#: bologer-vk-comments.php:309
+msgid "set element type of the header. E.g. h1, h2 up to h6."
+msgstr ""
+"установить собственный тип элемента заголовка. Например, h1, h2 - до h6."
+
+#: bologer-vk-comments.php:316
+msgid "Header Top Space"
+msgstr "Отступ сверху от заголовка"
+
+#: bologer-vk-comments.php:323
+msgid "set space (in pixels) from the top of the header"
+msgstr "установить отступ (в пикселях) сверху от заголовка "
+
+#: bologer-vk-comments.php:330
+msgid "Header Bottom Space"
+msgstr "Отступ снизу от заголовка"
+
+#: bologer-vk-comments.php:337
+msgid "set space (in pixels) from the bottom of the header"
+msgstr "установить отступ (в пикселях) снизу от заголовка"
+
+#: bologer-vk-comments.php:344
+msgid "Widget Top Space"
+msgstr "Отступ до виджета"
+
+#: bologer-vk-comments.php:351
+msgid "set space (in pixels) from the top of the widget"
+msgstr "установить отступ (в пикселях) сверху от виджета"
+
+#: bologer-vk-comments.php:358
+msgid "Widget Bottom Space"
+msgstr "Отступ после виджета"
+
+#: bologer-vk-comments.php:365
+msgid "set space (in pixels) from the bottom of the widget"
+msgstr "установить отступ (в пикселях) снизу от виджета"
+
+#: bologer-vk-comments.php:375
+msgid "Show Override Header"
+msgstr "Показывать заголовок"
+
+#: bologer-vk-comments.php:382
+msgid "Whether to show or hide header on active \"Override\" option"
+msgstr ""
+"Эта опция зависит от \"Перезаписать\". Если на ней стоит галочка, то у вас "
+"есть возможность скрыть заголовок у формы."
+
+#: bologer-vk-comments.php:391
+msgid "Graffiti"
+msgstr "Граффити"
+
+#: bologer-vk-comments.php:398
+msgid "Allow to attach graffiti"
+msgstr "Разрешить прикреплять граффити"
+
+#: bologer-vk-comments.php:407
+msgid "Photos"
+msgstr "Фотографии"
+
+#: bologer-vk-comments.php:414
+msgid "Allow to attach photos"
+msgstr "Разрешить прикреплять фотографии."
+
+#: bologer-vk-comments.php:423
+msgid "Videos"
+msgstr "Видео"
+
+#: bologer-vk-comments.php:430
+msgid "Allow to attach video"
+msgstr "Разрешить прикреплять видео."
+
+#: bologer-vk-comments.php:439
+msgid "Audios"
+msgstr "Аудио"
+
+#: bologer-vk-comments.php:446
+msgid "Allow to attach audio"
+msgstr "Разрешить прикреплять аудио."
+
+#: bologer-vk-comments.php:455
+msgid "Links"
+msgstr "Ссылки"
+
+#: bologer-vk-comments.php:462
+msgid "Allow to attach link"
+msgstr "Разрешить прикреплять ссылки."
+
+#: bologer-vk-comments.php:475 bologer-vk-comments.php:476
+msgid "VK Comments"
+msgstr "ВК Комментарии"
+
+#: bologer-vk-comments.php:486 bologer-vk-comments.php:487
+msgid "Settings"
+msgstr "Настройки"
+
+#: bologer-vk-comments.php:495 bologer-vk-comments.php:496
+msgid "All Comments"
+msgstr "Все комментарии"
+
+#: bologer-vk-comments.php:527
+msgid "Before Form"
+msgstr "Перед формой"
+
+#: bologer-vk-comments.php:531
+msgid "After Form"
+msgstr "После формы"
+
+#: bologer-vk-comments.php:535
+msgid "Under Form Header"
+msgstr "Под заголовком формы"
+
+#: bologer-vk-comments.php:540
+msgid ""
+"Position of the widget. Whether to put it before, after the form or under "
+"the header of native WordPress comments (if \"Override\" option is unchecked)"
+"."
+msgstr ""
+"Позиция виджета. Вы можете поставить его перед или после формы, а ты же под "
+"заголовком стандартной формы комментариев от WordPress (эта опция работает "
+"только если на опции \"Перезаписать\" не стоит галочка). "
+
+#: bologer-vk-comments.php:557
+msgid "Auto"
+msgstr "Автоматически"
+
+#: bologer-vk-comments.php:560 bologer-vk-comments.php:585
+#: bologer-vk-comments.php:610
+msgid "Enabled"
+msgstr "Включено"
+
+#: bologer-vk-comments.php:563 bologer-vk-comments.php:588
+#: bologer-vk-comments.php:613
+msgid "Disabled"
+msgstr "Выключено"
+
+#: bologer-vk-comments.php:568
+msgid ""
+"enables the mini version of the widget — smaller fonts, smaller attachment "
+"thumbnails, smaller profile pcitures in second level comments. (1 — enabled, "
+"0 — disabled, auto — automatic selection depending on the available width). "
+"By default — auto"
+msgstr ""
+"включает мини версию виджета - более малкий шрифт, размер файлов и "
+"фотографий, аватарок профиля на втором уровне ответа и д.р. По умолчанию "
+"стоит \"Автоматически\""
+
+#: bologer-vk-comments.php:593
+msgid ""
+"disables realtime updates for the comments. (1 — disabled,0 — enabled). By "
+"default — 0"
+msgstr ""
+"обновление комментариев а режиме реального времени. По умолчанию отключено."
+
+#: bologer-vk-comments.php:618
+msgid ""
+"automatically publish the comment to the user's VK page (0 — disabled, 1 — "
+"enabled). By default — 0."
+msgstr ""
+"автоматически постить комментарий на стене пользователя Вконтакте. По "
+"умолчанию отключено."
+
+#: bologer-vk-comments.php:854
+msgid "Instructions"
+msgstr "Инструкция"
+
+#: bologer-vk-comments.php:855
+msgid "Main"
+msgstr "Главные"
+
+#: bologer-vk-comments.php:856
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: bologer-vk-comments.php:884
+msgid "On this page you can see all of the comments on your website."
+msgstr "На этой странице вы можете посмотреть все комментарии на вашем сайте."
+
+#: bologer-vk-comments.php:887 bologer-vk-comments.php:1056
+msgid "VK widget is disabled, preview is unavailable."
+msgstr ""
+"ВК виджет отключен, предварительный просмотр не доступен. Включите виджет в "
+"настройках, чтобы посмотреть его в работе."
+
+#: bologer-vk-comments.php:903
+msgid ""
+"It seems that VK widget is disabled. Please enable it if you did it by "
+"mistake."
+msgstr ""
+"Похоже, что вы отключили виджет ВК. Если вы сделали это по ошибке, то вы "
+"всегда можете включить его, поставив галочку на опции \"Активен?\"."
+
+#: bologer-vk-comments.php:918
+msgid "Welcome to Bologer VK Comments plugin."
+msgstr "Добро пожаловать в Bologer VK Comments плагин."
+
+#: bologer-vk-comments.php:919
+msgid "You may customize it as you like."
+msgstr "Вы можете настраивать его как вам хочется."
+
+#: bologer-vk-comments.php:920
+msgid ""
+"Your support will be helpful. Give us <a href=\"https://wordpress."
+"ru/plugins/bologer-vk-comments\">5 stars</a> to motivate us further."
+msgstr ""
+"Ваша поддержка очень важна для нас. Поставьте нам <a href=\"https:"
+"//wordpress.ru/plugins/bologer-vk-comments\">пять звезд</a>, чтобы дать "
+"мотивировацию  на развитие этого виджета."
+
+#: bologer-vk-comments.php:922
+msgid "Features you might like the most:"
+msgstr "Особенности, которые вам могут понравится больше всего:"
+
+#: bologer-vk-comments.php:924
+msgid "Completely override native WordPress comments"
+msgstr "Полностью заменить стандартные комментарии от WordPress"
+
+#: bologer-vk-comments.php:925
+msgid ""
+"Set VK widget together with native WordPress comments. Set position of VK "
+"widget (over, under or below the header of the native comments)"
+msgstr ""
+"Поставить VK виджет вместе со стандартными комментариями от WordPress. "
+"Установить позицию ВК виджета (выше, ниже или под заголовком стандартных "
+"комментариев)"
+
+#: bologer-vk-comments.php:926
+msgid ""
+"Copy code from VK.com and paste into special field to auto fill most of the "
+"settings in widget"
+msgstr ""
+"Скопируйте код из VK.com и вставьте в специально поле для автозаполнения "
+"некоторые настроек виджета"
+
+#: bologer-vk-comments.php:927
+msgid "Fully customized settings of the widget directly from admin panel"
+msgstr ""
+"Настройки виджета происходит напрямую через админ центр, не нужно копаться в "
+"коде"
+
+#: bologer-vk-comments.php:949
+msgid "Settings Saved"
+msgstr "Настройки сохранены"
+
+#: bologer-vk-comments.php:968
+msgid "Follow instructions below to set-up VK comments widget:"
+msgstr ""
+"Используйте инструкцию ниже чтобы настроить виджет комментариев от ВКонтакте:"
+
+#: bologer-vk-comments.php:970
+msgid ""
+"Go to <a href=\"https://vk.com/dev/Comments\" target=\"_blank\">VK "
+"Developers page</a>"
+msgstr ""
+"Зайдите на <a href=\"https://vk.com/dev/Comments\" target=\"_blank\">"
+"страницу разработчиков</a>"
+
+#: bologer-vk-comments.php:971
+msgid "Add your website or choose an existing one"
+msgstr "Добавьте ваш сайта или выберите существующий"
+
+#: bologer-vk-comments.php:972
+msgid "Copy code, click \"Enter Settings Magically\""
+msgstr "Скопируйте код виджета, и нажмите \"Использовать магию\""
+
+#: bologer-vk-comments.php:973
+msgid ""
+"Paste code in the opened field and click \"Fill Below\" to auto fill some of "
+"values below"
+msgstr ""
+"Вставьте код в открытое поле и нажмите \"Вставить ниже\", для автозаполнения "
+"некоторых полей"
+
+#: bologer-vk-comments.php:979
+msgid "Enter Settings Magically"
+msgstr "Использовать магию"
+
+#: bologer-vk-comments.php:984
+msgid "Enter widget code here..."
+msgstr "Вставьте код виджета сюда..."
+
+#: bologer-vk-comments.php:988
+msgid "Fill Below"
+msgstr "Вставить ниже"
+
+#: bologer-vk-comments.php:1043
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: bologer-vk-comments.php:1049
+msgid "Widget Preview"
+msgstr "Предварительный просмотр"
+
+#: bologer-vk-comments.php:1051
+msgid "Below you can see how your widget would look the comments"
+msgstr "Ниже вы можете посмотреть как ваш виджет выглядит "
+
+#. URI of the plugin
+msgid "http://bologer.ru"
+msgstr "http://bologer.ru"
+
+#. Author of the plugin
+msgid "Alexander Teshabaev <admin@bologer.ru>"
+msgstr "Александр Тешабаев <admin@bologer.ru>"
+
+#. Author URI of the plugin
+msgid "http://bologer.ru/"
+msgstr "http://bologer.ru/"
